@@ -1,0 +1,2 @@
+# MealsRaterAPI
+- Django Rest Framework
