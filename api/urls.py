@@ -5,6 +5,7 @@ from .views import *
 
 router = routers.DefaultRouter()
 router.register('meals', MealViewSet)
+router.register('users', UserViewSet)
 router.register('ratings', RatingViewSet)
 
 urlpatterns = [
